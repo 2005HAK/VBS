@@ -2140,7 +2140,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 49.53) (xy 100.33 49.53)
+			(xy 100.33 49.53) (xy 139.7 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2310,16 +2310,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 46.99) (xy 137.16 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "570f0496-2b0b-483e-9fd8-685804ecfff8")
-	)
-	(wire
-		(pts
 			(xy 161.29 52.07) (xy 161.29 46.99)
 		)
 		(stroke
@@ -2350,13 +2340,13 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 46.99) (xy 139.7 50.8)
+			(xy 137.16 46.99) (xy 137.16 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6f35ec38-93dc-48f8-b89c-fc39a6c31f68")
+		(uuid "68257b17-819b-42d8-bda1-e6ca3185269d")
 	)
 	(wire
 		(pts
@@ -2427,6 +2417,16 @@
 			(type default)
 		)
 		(uuid "96004efa-4bf6-4236-b81f-1db7b9e7fa7f")
+	)
+	(wire
+		(pts
+			(xy 137.16 50.8) (xy 99.06 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "970f1214-fdfe-4833-b15d-361f2bc75e12")
 	)
 	(wire
 		(pts
@@ -2660,6 +2660,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 49.53) (xy 139.7 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5ff3cdc-c098-48ae-acc0-bf382017f570")
+	)
+	(wire
+		(pts
 			(xy 110.49 120.65) (xy 180.34 120.65)
 		)
 		(stroke
@@ -2677,16 +2687,6 @@
 			(type default)
 		)
 		(uuid "f3330d24-06ec-4c7b-8bb4-e5e6382da9e5")
-	)
-	(wire
-		(pts
-			(xy 139.7 50.8) (xy 99.06 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd32bf15-0997-4f1a-8290-02cf74de58f9")
 	)
 	(wire
 		(pts
@@ -2760,9 +2760,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 158.75 41.91 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2843,7 +2842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 24.13 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3122,7 +3121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S6B-XH-A-1_1x06_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical"
 			(at 177.8 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3456,7 +3455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 139.7 41.91 0)
 			(hide yes)
 			(show_name no)
